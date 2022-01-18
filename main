@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="en">
+  
+  <head>
+    
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+
+    <title>Hello, world!</title>
+  </head>
+  
+    
+ 
+<body>
+  <nav class="navbar navbar-expand-lg navbar-light bg-light">
+    <div class="container-fluid">
+      <a class="navbar-brand" href="#">Navbar</a>
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarNavDropdown">
+        <ul class="navbar-nav">
+          <li class="nav-item">
+            <a class="nav-link active" aria-current="page" href="PageOne.html">Page One</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="PageTwo.html">Page Two</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="PageThree.html">Page Three</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="PageFour.html">Page Four</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+</body>
+<body>
+  <p>
+    If you want to access the other function use the Navbar. Page one contains "Scrollspy". Page two contains "Toasts". Page three contains "Popover". Page four contains "Card" and "Caroussel".
+  </p>
+  <img src="images.png" class="card-img-top" alt="sidious" width="50" height="150">
+  <head>About me</head>
+  <p>Believing neglected so so allowance existence departure in</h2><p>Nor hence hoped her after other known defer his. For county now sister engage had season better had waited. Occasional mrs interested far expression acceptance. Day either mrs talent pulled men rather regret admire but. Life ye sake it shed. Five lady he cold in meet up. Service get met adapted matters offence for. Principles man any insipidity age you simplicity understood. Do offering pleasure no ecstatic whatever on mr directly.</p><p>Received shutters expenses ye he pleasant. Drift as blind above at up. No up simple county stairs do should praise as. Drawings sir gay together landlord had law smallest. Formerly welcomed attended declared met say unlocked. Jennings outlived no dwelling denoting in peculiar as he believed. Behaviour excellent middleton be as it curiosity departure ourselves.</p>
+</body>
+</html>
